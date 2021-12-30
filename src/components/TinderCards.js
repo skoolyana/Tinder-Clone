@@ -9,8 +9,8 @@ function TinderCards() {
       url: "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5OTk2ODUyMTMxNzM0ODcy/gettyimages-1229892983-square.jpg",
     },
     {
-      name: "Jeff Bezos",
-      url: "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5OTk2ODUyMTMxNzM0ODcy/gettyimages-1229892983-square.jpg",
+      name: "Priyanka Chopra",
+      url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfe8sK-awytXt1lXC8TrEZGF9DgI0X3hiS7w&usqp=CAU",
     },
   ]);
 

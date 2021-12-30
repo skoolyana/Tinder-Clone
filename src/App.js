@@ -2,6 +2,7 @@
 import './App.css';
 import TinderCards from './components/TinderCards';
 import Header from './Header';
+import SwipeButtons from './components/SwipeButtons';
 
 
 function App() {
@@ -11,7 +12,9 @@ function App() {
      <Header/>
 
     <TinderCards></TinderCards>
-       {/* Swipe Buttons */}
+    
+    <SwipeButtons></SwipeButtons>
+
     </div>
   );
 }
